@@ -29,6 +29,7 @@ After this lesson, you'll be able to
 
 ## Instructors code alongs
 
+* [EDA](https://raw.githubusercontent.com/commit-live-students/exploratory-data-analysis/master/notebooks/introduction_to_machine_learning.ipynb)
 
 
 ## Assignments 
