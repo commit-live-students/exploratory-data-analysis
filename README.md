@@ -7,6 +7,8 @@ Before this lesson , we recommend you go through
 
 *  [Measures of Location](http://www.itl.nist.gov/div898/handbook/eda/section3/eda351.htm)
 *  [Measures of Spread](http://www.abs.gov.au/websitedbs/a3121120.nsf/home/statistical+language+-+measures+of+spread)
+*  [Taxonomy of charts](https://pykih.com/44878804.html) 
+*  [Classification of Chart Types](http://excelcharts.com/wp-content/uploads/2013/11/classification-chart-types.png)
 *  [Random Variables](https://en.wikipedia.org/wiki/Random_variable)
 *  [A Gentle Introduction to Scikit-Learn: A Python Machine Learning Library](http://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/)
 
