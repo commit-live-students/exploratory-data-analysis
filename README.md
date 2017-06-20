@@ -18,8 +18,12 @@ Before this lesson , we recommend you go through
 After this lesson, you'll be able to 
 
 * Perform Exploratory Data Analysis
-* Work with Data 
-
+* Work with Data
+* Have a mathematical feeling of Linear Regression
+  * [Derivation of OLS - Non Calculus](https://www.amherst.edu/system/files/media/1287/SLR_Leastsquares.pdf)
+  * Derivation in terms of Matrices
+  * Derivation of OLS - Calculus 
+  * Derivation of OLS - Graphical 
 
 ## Agenda
 
@@ -53,5 +57,8 @@ After this lesson, you'll be able to
   *  These are extremely popular the Datasets - You will most likely find ready made Python code for EDA - Google it and go through it 
 
 ## Resources & Post Reads
-
-
+  * Critical Thinking 
+    * How to treat Outliers?" - Are Outliers Good or Bad?
+  * [Value of Exploratory Analysis](http://www.kdnuggets.com/2017/04/value-exploratory-data-analysis.html)
+  * [Use of Excel for EDA](https://www.youtube.com/playlist?list=PLZzQj_sVf3slNwpohkUAkD0gHncgfCpJ3)
+  * [Excel Data Analysis - Sort/ Filter/ Pivot](https://www.youtube.com/playlist?list=PLZzQj_sVf3slNwpohkUAkD0gHncgfCpJ3)
