@@ -1,6 +1,6 @@
 ![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/GreyAtom-logo.png)
 
-# Introduction to Machine Learning
+# Introduction to Machine Learning - Exploratory Data Analysis
 
 ## Lets Get Rolling - Student Pre-Read
 Before this lesson , we recommend you go through
@@ -16,7 +16,6 @@ Before this lesson , we recommend you go through
 After this lesson, you'll be able to 
 
 * Perform Exploratory Data Analysis
-* Understand and Apply Descriptive Statistics Techniques
 * Work with Data 
 
 
