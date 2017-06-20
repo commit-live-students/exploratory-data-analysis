@@ -33,9 +33,23 @@ After this lesson, you'll be able to
 
 
 ## Assignments 
+*  [UCI Data Repository Review](http://archive.ics.uci.edu/ml/datasets.html)
+  *  Go to the Data Repository - Select the below 10 Datasets   
+    *  [Iris](https://archive.ics.uci.edu/ml/datasets/Iris)
+    *  [Titanic](https://www.kaggle.com/c/titanic)
+    *  [Sonar](http://archive.ics.uci.edu/ml/datasets/connectionist+bench+(sonar,+mines+vs.+rocks))
+    *  [Pima Indians Diabetes](https://archive.ics.uci.edu/ml/datasets/Pima+Indians+Diabetes)
+    *  [Water Treatment Plant](https://archive.ics.uci.edu/ml/datasets/Water+Treatment+Plant)
+    *  [Boston Housing](https://archive.ics.uci.edu/ml/datasets/housing)
+    *  [Forest Fires](https://archive.ics.uci.edu/ml/datasets/Forest+Fires)
+    *  [Fertility](https://archive.ics.uci.edu/ml/datasets/Fertility#)
+    *  [Communities and Crime Data Set](https://archive.ics.uci.edu/ml/datasets/Communities+and+Crime)
+    *  [Wine Quality Data Set ](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
+    *  [Automobile](https://archive.ics.uci.edu/ml/datasets/Automobile)
 
-
-
+  *  Make a Group of 2/3 - Download the Datasets - Read 'Data Set Description'
+  *  Each team will explain the dataset and corresponding domain required to understand the day
+  *  These are extremely popular the Datasets - You will most likely find ready made Python code for EDA - Google it and go through it 
 
 ## Resources & Post Reads
 
