@@ -1,6 +1,6 @@
 ![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/GreyAtom-logo.png)
 
-# Introduction to Machine Learning - Exploratory Data Analysis
+#Streetfighting with Maths and EDA
 
 ## Lets Get Rolling - Student Pre-Read
 Before this lesson , we recommend you go through
