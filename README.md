@@ -111,3 +111,4 @@ After this lesson, you'll be able to
   * [Use of Excel for EDA](https://www.youtube.com/playlist?list=PLZzQj_sVf3slNwpohkUAkD0gHncgfCpJ3)
   * [Excel Data Analysis - Sort/ Filter/ Pivot](https://www.youtube.com/playlist?list=PLZzQj_sVf3slNwpohkUAkD0gHncgfCpJ3)
   * [How to Lie with Statistics](https://en.wikipedia.org/wiki/How_to_Lie_with_Statistics)
+  * [Think Stats](greenteapress.com/thinkstats/thinkstats.pdf)
