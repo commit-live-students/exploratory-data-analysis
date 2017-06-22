@@ -112,3 +112,7 @@ After this lesson, you'll be able to
   * [Excel Data Analysis - Sort/ Filter/ Pivot](https://www.youtube.com/playlist?list=PLZzQj_sVf3slNwpohkUAkD0gHncgfCpJ3)
   * [How to Lie with Statistics](https://en.wikipedia.org/wiki/How_to_Lie_with_Statistics)
   * [Think Stats](greenteapress.com/thinkstats/thinkstats.pdf)
+  * Scatter Matrix - What to use?
+    * [Scatter Matrix - Pandas](http://pandas.pydata.org/pandas-docs/stable/visualization.html#scatter-plot-matrix)
+    * [Scatter Matrix - Plotly](https://plot.ly/python/scatterplot-matrix/)
+    * [Scatter Matrix - Seaborn](https://seaborn.pydata.org/examples/scatterplot_matrix.html)
